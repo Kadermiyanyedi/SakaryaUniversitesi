@@ -1,0 +1,49 @@
+Sinif mevcudu : 25
+
+Kader Miyanyedi B191210385  Ortalaması:72  Harf Notu: CC
+Merve Ay B191210384  Ortalaması:20  Harf Notu: FF
+Deniz Gündüz B191210382  Ortalaması:69  Harf Notu: CC
+Melih Geyikli B191210379  Ortalaması:69  Harf Notu: CC
+Onur Yıldız B191210378  Ortalaması:85.5  Harf Notu: BA
+Demet Baltan B181210385  Ortalaması:62.5  Harf Notu: DC
+Emirhan Deniz B181210375  Ortalaması:49  Harf Notu: FD
+Gökberk Arslan G191210380  Ortalaması:72  Harf Notu: CC
+Ahmet Karabudak G191210370  Ortalaması:60  Harf Notu: DC
+Buse Elmas B191210333  Ortalaması:78  Harf Notu: CB
+Hilal Uzun B191210222  Ortalaması:62  Harf Notu: DC
+Zeynep Ak B191210111  Ortalaması:72  Harf Notu: CC
+Gamze Karabulut B191210105  Ortalaması:45  Harf Notu: FD
+Beril Parim B191210255  Ortalaması:36  Harf Notu: FF
+Bengisu Berkel B191210265  Ortalaması:38  Harf Notu: FF
+Nisa Gezer B191210210  Ortalaması:67  Harf Notu: CC
+Gözde Kılbaş B191210085  Ortalaması:87  Harf Notu: BA
+Özge Suskun B191210275  Ortalaması:70  Harf Notu: CC
+Oğuzhan İnce B191210185  Ortalaması:73.5  Harf Notu: CC
+İsra Bozkurt B191210285  Ortalaması:76  Harf Notu: CB
+Deniz Rüzgar G181210356  Ortalaması:75  Harf Notu: CB
+Alp Yılmaz G181210354  Ortalaması:87  Harf Notu: BA
+Musa Ok G191210540  Ortalaması:80  Harf Notu: BB
+Sibel Akyıldız B181210300  Ortalaması:90  Harf Notu: AA
+Yeşim Oya B181210220  Ortalaması:65  Harf Notu: CC
+
+AA alan toplam öğrenci sayısı: 1
+BA alan toplam öğrenci sayısı: 3
+BB alan toplam öğrenci sayısı: 1
+CB alan toplam öğrenci sayısı: 3
+CC alan toplam öğrenci sayısı: 9
+DC alan toplam öğrenci sayısı: 3
+DD alan toplam öğrenci sayısı: 0
+FD alan toplam öğrenci sayısı: 2
+FF alan toplam öğrenci sayısı: 3
+
+ İSTATİSTİK 
+
+AA istatiği: %4
+BA istatiği: %12
+BB istatiği: %4
+CB istatiği: %12
+CC istatiği: %36
+DC istatiği: %12
+DD istatiği: %0
+FD istatiği: %8
+FF istatiği: %12
