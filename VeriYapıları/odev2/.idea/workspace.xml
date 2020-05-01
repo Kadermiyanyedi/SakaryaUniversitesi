@@ -9,8 +9,11 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c794d96e-8aac-4b75-b890-24f4ba43deef" name="Default Changelist" comment="" />
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <list default="true" id="c794d96e-8aac-4b75-b890-24f4ba43deef" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../../NesneYönelimliAnaliz/Odev1.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/../../NesneYönelimliAnaliz/Odev1.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ProgramlamaDilleriPrensipleri/Odev1/bin/pdp_odev/Pdp.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../ProgramlamaDilleriPrensipleri/Odev1/bin/pdp_odev/Pdp.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -19,23 +22,20 @@
   <component name="ClangdSettings">
     <option name="formatViaClangd" value="false" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
   <component name="OCFindUsagesOptions" text="true" ivars="false" properties="true" derivedClasses="false" />
   <component name="ProjectId" id="1U4K8BEDOOx3pHK0M045YVikSSz" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-  </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -59,6 +59,8 @@
       <workItem from="1574771990734" duration="973000" />
       <workItem from="1574774843694" duration="702000" />
       <workItem from="1575109876126" duration="14000" />
+      <workItem from="1586732961564" duration="17000" />
+      <workItem from="1587992935494" duration="39000" />
     </task>
     <servers />
   </component>

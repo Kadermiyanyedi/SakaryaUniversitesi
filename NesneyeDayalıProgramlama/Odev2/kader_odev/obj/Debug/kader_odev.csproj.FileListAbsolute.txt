@@ -1,0 +1,11 @@
+C:\Users\rabia\source\repos\kader_odev\kader_odev\bin\Debug\kader_odev.exe.config
+C:\Users\rabia\source\repos\kader_odev\kader_odev\bin\Debug\kader_odev.exe
+C:\Users\rabia\source\repos\kader_odev\kader_odev\bin\Debug\kader_odev.pdb
+C:\Users\rabia\source\repos\kader_odev\kader_odev\obj\Debug\kader_odev.csprojAssemblyReference.cache
+C:\Users\rabia\source\repos\kader_odev\kader_odev\obj\Debug\kader_odev.Form1.resources
+C:\Users\rabia\source\repos\kader_odev\kader_odev\obj\Debug\kader_odev.Form2.resources
+C:\Users\rabia\source\repos\kader_odev\kader_odev\obj\Debug\kader_odev.Properties.Resources.resources
+C:\Users\rabia\source\repos\kader_odev\kader_odev\obj\Debug\kader_odev.csproj.GenerateResource.cache
+C:\Users\rabia\source\repos\kader_odev\kader_odev\obj\Debug\kader_odev.csproj.CoreCompileInputs.cache
+C:\Users\rabia\source\repos\kader_odev\kader_odev\obj\Debug\kader_odev.exe
+C:\Users\rabia\source\repos\kader_odev\kader_odev\obj\Debug\kader_odev.pdb

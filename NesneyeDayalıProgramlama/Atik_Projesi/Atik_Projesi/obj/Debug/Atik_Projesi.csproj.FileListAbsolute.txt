@@ -1,0 +1,10 @@
+C:\Users\arifa\source\repos\Atik_Projesi\Atik_Projesi\bin\Debug\Atik_Projesi.exe.config
+C:\Users\arifa\source\repos\Atik_Projesi\Atik_Projesi\bin\Debug\Atik_Projesi.exe
+C:\Users\arifa\source\repos\Atik_Projesi\Atik_Projesi\bin\Debug\Atik_Projesi.pdb
+C:\Users\arifa\source\repos\Atik_Projesi\Atik_Projesi\obj\Debug\Atik_Projesi.csprojAssemblyReference.cache
+C:\Users\arifa\source\repos\Atik_Projesi\Atik_Projesi\obj\Debug\Atik_Projesi.Form1.resources
+C:\Users\arifa\source\repos\Atik_Projesi\Atik_Projesi\obj\Debug\Atik_Projesi.Properties.Resources.resources
+C:\Users\arifa\source\repos\Atik_Projesi\Atik_Projesi\obj\Debug\Atik_Projesi.csproj.GenerateResource.cache
+C:\Users\arifa\source\repos\Atik_Projesi\Atik_Projesi\obj\Debug\Atik_Projesi.csproj.CoreCompileInputs.cache
+C:\Users\arifa\source\repos\Atik_Projesi\Atik_Projesi\obj\Debug\Atik_Projesi.exe
+C:\Users\arifa\source\repos\Atik_Projesi\Atik_Projesi\obj\Debug\Atik_Projesi.pdb

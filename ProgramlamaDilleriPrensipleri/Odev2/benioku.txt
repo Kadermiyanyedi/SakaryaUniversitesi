@@ -1,0 +1,1 @@
+Javada proje açıldıktan sonra kütüphane rarını tekrar eklemek gerekmektedir.Aksi takdirde program çalışmamaktadır. Bununla ilgili olarak ders hocama mail attım.
