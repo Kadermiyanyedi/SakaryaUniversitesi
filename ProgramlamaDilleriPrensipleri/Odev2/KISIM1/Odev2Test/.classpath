@@ -6,6 +6,6 @@
 		</attributes>
 	</classpathentry>
 	<classpathentry kind="src" path="src"/>
-	<classpathentry kind="lib" path="/home/moonkat/Desktop/PDP/KISIM1/Odev2Kutuphane/dist/Odev2Kutuphane.jar"/>
+	<classpathentry kind="lib" path="/home/moonkat/Desktop/Odev2/KISIM1/Odev2Kutuphane/dist/Odev2Kutuphane.jar"/>
 	<classpathentry kind="output" path="build/classes"/>
 </classpath>
